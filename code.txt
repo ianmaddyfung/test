@@ -1,2 +1,4 @@
 master: initial commit of code.txt
-feature: adding one (1) enhancement line
+feature: modified one (1) enhancement line
+bugfix: adding one (1) bugfix line
+bugfix: modified the enhancement line introduced in the feature branch (line 2)
